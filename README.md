@@ -16,7 +16,7 @@ I recommend to test out activating each shader individually for which ever progr
 
 Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point errors.
 
-^ᶦᶠ ᵗʰᶦˢ ʰᵃᵖᵖᵉⁿˢ ʲᵘˢᵗ ᵈᵉˡᵉᵗᵉ ᵗʰᵉ ᶠᶦˡᵉ ᵗʰᵃᵗ ᶜᵃᵘˢᵉˢ ᵗʰᵉ ᶜᵗᵈ
+^ɪғ ᴛʜɪs ʜᴀᴘᴘᴇɴs ᴊᴜsᴛ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴛʜᴀᴛ ᴄᴀᴜsᴇs ᴛʜᴇ ᴄᴛᴅ
 
 ### Effects included
 The following effects are included: 
