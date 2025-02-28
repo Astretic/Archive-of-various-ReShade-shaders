@@ -4,7 +4,7 @@ A set of effects used for [Reshade](https://reshade.me).
 Some of these shaders are from the [official reshade shader library](https://github.com/crosire/reshade-shaders), most of them just come from somewhere, whoever really knows where. 
 
 ### Prerequisites
-You should have [Reshade](https://reshade.me) (preferably the latest) and at least reshade.fxh present in the `reshade-shaders\shaders` folder
+You should have [Reshade](https://reshade.me) (preferably the latest) and reshade.fxh inside the `reshade-shaders\shaders` folder
 
 ### How to install
 It's quite unorganized, I use the folder as a place to store any files I'd like to port into ReShade.
