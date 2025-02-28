@@ -13,7 +13,7 @@ You should be able to find your Shader and Texture folders wherever you'd decide
 Copy over all of the texture files to `reshade-shaders\textures`. Shaders to `reshade-shaders\shaders`.<br>
 I recommend to test out activating each shader individually for which ever program/game you intend to run. 
 
-Some of these won't work in Reshade at all, some cause application crashes upon activation due to floating point errors.<br>
+Some of these won't work in Reshade at all, **some cause application crashes upon activation due to floating point errors.**<br>
 ɪғ ᴛʜɪs ʜᴀᴘᴘᴇɴs ᴊᴜsᴛ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴛʜᴀᴛ ᴄᴀᴜsᴇs ᴛʜᴇ ᴄᴛᴅ^
 
 ### Effects included
