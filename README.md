@@ -1,4 +1,4 @@
-# Archive of Various ReShade Shaders
+# Archive of Various Reshade Shaders
 A set of effects used for [Reshade](https://reshade.me). 
 
 Some of these shaders are from the [official reshade shader library](https://github.com/crosire/reshade-shaders), most of them just come from somewhere, whoever really knows where. 
@@ -7,10 +7,14 @@ Some of these shaders are from the [official reshade shader library](https://git
 You should have [Reshade](https://reshade.me) (preferably the latest) and reshade.fxh inside the `reshade-shaders\shaders` folder
 
 ### How to install
-It's quite unorganized, I use the folder as a place to store any files I'd like to port into ReShade.
-You should be able to find your Shader and Texture folders wherever you'd decided to install ReShade. Copy over all of the texture files.
-I recommend to test out activating each shader individually in batches for which ever program/game you intend to run. 
-Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point values.
+It's quite unorganized, I use the folder as a place to store backups of any files I'd like to use later.<br>
+You should be able to find your Shader and Texture folders wherever you'd decided to install Reshade. 
+
+Copy over all of the texture files to `reshade-shaders\textures`. Shaders to `reshade-shaders\shaders`.<br>
+I recommend to test out activating each shader individually for which ever program/game you intend to run. 
+
+Some of these won't work in Reshade at all, **some cause application crashes upon activation due to floating point errors.**<br>
+ɪғ ᴛʜɪs ʜᴀᴘᴘᴇɴs ᴊᴜsᴛ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴛʜᴀᴛ ᴄᴀᴜsᴇs ᴛʜᴇ ᴄᴛᴅ^
 
 ### Effects included
 The following effects are included: 
