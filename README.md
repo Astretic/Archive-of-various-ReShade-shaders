@@ -12,7 +12,7 @@ You should be able to find your Shader and Texture folders wherever you'd decide
 
 I recommend to test out activating each shader individually for which ever program/game you intend to run. 
 
-Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point values.
+Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point errors.
 
 ### Effects included
 The following effects are included: 
