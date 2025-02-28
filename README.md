@@ -10,8 +10,7 @@ You should have [Reshade](https://reshade.me) (preferably the latest) and reshad
 It's quite unorganized, I use the folder as a place to store any files I'd like to port into ReShade.
 You should be able to find your Shader and Texture folders wherever you'd decided to install ReShade. 
 
-Copy over all of the texture files to `reshade-shaders\textures`. Shaders to `reshade-shaders\shaders`.
-
+Copy over all of the texture files to `reshade-shaders\textures`. Shaders to `reshade-shaders\shaders`.<br>
 I recommend to test out activating each shader individually for which ever program/game you intend to run. 
 
 Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point errors.<br>
