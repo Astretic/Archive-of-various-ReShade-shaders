@@ -17,7 +17,7 @@ Some of these won't work in Reshade at all, **some cause application crashes upo
 ɪғ ᴛʜɪs ʜᴀᴘᴘᴇɴs ᴊᴜsᴛ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴛʜᴀᴛ ᴄᴀᴜsᴇs ᴛʜᴇ ᴄᴛᴅ^
 
 ### **281** Effects included
-The following effects are included: 
+This contains the following effects: 
 - 3DFX.fx
 - ACES.fxh
 - ASCII.fx
