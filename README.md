@@ -15,6 +15,7 @@ Copy over all of the texture files to `reshade-shaders\textures`. Shaders to `re
 I recommend to test out activating each shader individually for which ever program/game you intend to run. 
 
 Some of these won't work in ReShade at all, some cause application crashes upon activation due to floating point errors.
+
 ^ᶦᶠ ᵗʰᶦˢ ʰᵃᵖᵖᵉⁿˢ ʲᵘˢᵗ ᵈᵉˡᵉᵗᵉ ᵗʰᵉ ᶠᶦˡᵉ ᵗʰᵃᵗ ᶜᵃᵘˢᵉˢ ᵗʰᵉ ᶜᵗᵈ
 
 ### Effects included
